@@ -82,7 +82,7 @@
           <input type="text" placeholder="Sort" class="border p-2 rounded" />
           </div>
 
-          <!-- Price -->
+          <!-- Price --> 
           <div>
                       <h1 class="mb-4 text-bold text-2xl text-black">Price</h1>
 
