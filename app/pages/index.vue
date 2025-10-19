@@ -152,10 +152,16 @@
     </div>
   </div>
 </section>
+    <section class="container mx-auto px-4 py-20 grid grid-cols-1 md:grid-cols-3 gap-8">
+      <CardItem />
+      <CardItem />
+      <CardItem />
+    </section>
   </div>
 </template>
 
 <script setup>
+import CardItem from '~/components/CardItem.vue';
 </script>
 
 <style  scoped>
